@@ -51,7 +51,7 @@ public:
     void readInTemplates();
     QString readFile(QString);
 
-    // adding tab by opening file
+    // 通过打开文件添加制表符
     void addTab(QString, QString);
 
     // adding tab with shortcut or menu
